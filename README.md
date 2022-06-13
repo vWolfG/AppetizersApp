@@ -1,2 +1,2 @@
 # AppetizersApp
-AppetizersApp seanallen.teachable
+AppetizersApp https://seanallen.teachable.com/
